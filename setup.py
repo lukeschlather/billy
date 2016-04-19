@@ -36,5 +36,6 @@ billy-util = billy.bin.util:main
           "unicodecsv!=0.9.3",
           "validictory",
           "pyelasticsearch",
+          "requests"
       ]
 )
